@@ -18,6 +18,7 @@
 | [IDAFinal](IDAFinal) | Итог: инженерия признаков, подбор гиперпараметров, градиентный спуск | — | [feature engineering](IDAFinal/feature_engineering_practice.ipynb) · [gradient descent](IDAFinal/gradient_descent_practice.ipynb) |
 | [eda_amazon](eda_amazon) | Разведочный анализ данных (самостоятельная работа) | Amazon (товары, цены, рейтинги) | [eda_analysis](eda_amazon/eda_analysis.ipynb) |
 | [advanced_ml](advanced_ml) | Регуляризация и отбор признаков: bias-variance trade-off, Ridge / Lasso / Elastic Net | синтетические данные (`sklearn.datasets.make_regression`) | [лекция](advanced_ml/advanced_ml_regularization_ru.ipynb) · [практика](advanced_ml/practice_regularization_exercises_ru.ipynb) |
+| [lec9_bagging_boosting](lec9_bagging_boosting) | Ансамблевые методы: Bagging, Random Forest, Boosting, AdaBoost | — | [лекция](lec9_bagging_boosting/bagging_boosting_lecture.ipynb) · [практика](lec9_bagging_boosting/bagging_boosting_practice.ipynb) |
 
 ## lab4 vs lab3
 
@@ -37,4 +38,5 @@
 4. **Классификация деревьями решений с подбором гиперпараметров** (prac6) →
 5. **Классификация + кластеризация без учителя** (unsupervised_learning) →
 6. **Инженерия признаков и градиентный спуск с нуля** (IDAFinal) →
-7. **Регуляризация: борьба с переобучением** (advanced_ml)
+7. **Регуляризация: борьба с переобучением** (advanced_ml) →
+8. **Ансамблевые методы: Bagging и Boosting** (lec9_bagging_boosting)
