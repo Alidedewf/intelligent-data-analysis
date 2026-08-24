@@ -16,6 +16,8 @@
 | [prac6](prac6) | Деревья решений, оценка модели | — | [лекция](prac6/decision_trees_lecture.ipynb) · [практика](prac6/decision_trees_practice.ipynb) |
 | [unsupervised_learning](unsupervised_learning) | Supervised (логистическая регрессия) + Unsupervised (K-Means, иерархическая кластеризация, DBSCAN) | Titanic | [supervised](unsupervised_learning/supervised_learning_practice_ru.ipynb) · [unsupervised](unsupervised_learning/unsupervised_learning_practice_ru.ipynb) |
 | [IDAFinal](IDAFinal) | Итог: инженерия признаков, подбор гиперпараметров, градиентный спуск | — | [feature engineering](IDAFinal/feature_engineering_practice.ipynb) · [gradient descent](IDAFinal/gradient_descent_practice.ipynb) |
+| [eda_amazon](eda_amazon) | Разведочный анализ данных (самостоятельная работа) | Amazon (товары, цены, рейтинги) | [eda_analysis](eda_amazon/eda_analysis.ipynb) |
+| [advanced_ml](advanced_ml) | Регуляризация и отбор признаков: bias-variance trade-off, Ridge / Lasso / Elastic Net | синтетические данные (`sklearn.datasets.make_regression`) | [лекция](advanced_ml/advanced_ml_regularization_ru.ipynb) · [практика](advanced_ml/practice_regularization_exercises_ru.ipynb) |
 
 ## lab4 vs lab3
 
@@ -34,4 +36,5 @@
 3. **Регрессия и EDA на реальных данных** (lab3–4) →
 4. **Классификация деревьями решений с подбором гиперпараметров** (prac6) →
 5. **Классификация + кластеризация без учителя** (unsupervised_learning) →
-6. **Инженерия признаков и градиентный спуск с нуля** (IDAFinal)
+6. **Инженерия признаков и градиентный спуск с нуля** (IDAFinal) →
+7. **Регуляризация: борьба с переобучением** (advanced_ml)
